@@ -1,8 +1,0 @@
-@import url(monokai.css);
-body { background: #1f1f1f; color: var(--bs-light); }
-
-a { color: #4895ec; }
-
-.custom-bottom-border { border-bottom: 1px solid #555555; }
-
-.custom-bg-dark { background-color: #1f1f1f; }
