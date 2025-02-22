@@ -4,7 +4,7 @@ title:  "¿Que es Jekyll?"
 date:   2025-02-20 18:32:00 -0300
 categories: jekyll
 ---
-![octojekyll](/assets/images/octojekyll.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![octojekyll](/assets/images/octojekyll.png){:style="display:block; margin-left:auto; margin-right:auto; background-color:#333333"}
 
 [Jekyll](https://jekyllrb.com/) es un generador de sitios estáticos escrito en Ruby. Se usa principalmente para crear blogs y páginas web que no requieren una base de datos ni procesamiento del lado del servidor.
 
