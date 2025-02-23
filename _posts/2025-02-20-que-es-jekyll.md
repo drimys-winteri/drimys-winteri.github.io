@@ -2,7 +2,8 @@
 layout: post
 title:  "¿Que es Jekyll?"
 date:   2025-02-20 18:32:00 -0300
-categories: jekyll
+categories: Tecnología
+permalink: /:categories/:year/:month/:day/:title/
 ---
 <div>
   <img src="/assets/images/octojekyll.png" alt="octojekyll" style="display: block;margin-left: auto;margin-right: auto;padding-bottom:10px"> 
