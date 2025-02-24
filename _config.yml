@@ -20,7 +20,7 @@
 
 title: Drimys-winteri
 email: 
-description: Blog de actualidad, política en Chile y temas varios.
+description: Blog de actualidad, tecnología y otros.
 lang: "es-CL"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
